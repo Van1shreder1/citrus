@@ -1,2 +1,0 @@
-# citrus
-GitHub Pages
